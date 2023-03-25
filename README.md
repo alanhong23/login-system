@@ -1,8 +1,9 @@
-
-PyCharm users will need to enable **"emulate terminal"** in output console option in
+| WARINING: PyCharm users will need to enable **"emulate terminal"** in output console option in
 run/debug configuration to see styled output.
 
-Run > Edit Configurations > Check the option: Emulate terminal in output console
+Run > Edit Configurations > Check the option: Emulate terminal in output console|
+| --- |
+
 
 
 **Controls (required login)**
